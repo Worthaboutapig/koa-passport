@@ -17,15 +17,15 @@
   "license": "MIT",
   "main": "./lib",
   "dependencies": {
-    "passport": "^0.6.0"
+    "passport": "^0.7.0"
   },
   "devDependencies": {
     "jest": "^29.7.0",
     "koa": "^2.15.3",
     "koa-bodyparser": "^4.4.1",
-    "koa-route": "^3.2.0",
+    "koa-route": "^4.0.1",
     "passport-local": "^1.0.0",
-    "supertest": "^6.3.4"
+    "supertest": "^7.0.0"
   },
   "bugs": "https://github.com/rkusa/koa-passport/issues",
   "repository": {
